@@ -36,7 +36,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>springboot-image-cicd</finalName>
+		<finalName>springbooot-image-cicd</finalName>
 	</build>
 
 </project>
